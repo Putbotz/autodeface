@@ -18,11 +18,11 @@ dan ini hanya metode upload file saja
 * `pip2 install requests`
 * `pkg install git`
 * `git clone https://github.com/SantriCyber/autodeface`
-* `cd AOXdeface`
+* `cd autodeface`
 * `mc ⇨ edit file index.html, paste your name✔ save.`
 * `edit target.txt. with vuln site✔ save`
 * `Quit`
-* `python2 aox.py`
+* `python2 deface.py`
 
 **Linux:**
 * `apt-get install python`
@@ -30,8 +30,8 @@ dan ini hanya metode upload file saja
 * `pip install requests`
 * `apt-get install git`
 * `git clone https://github.com/SantriCyber/autodeface`
-* `cd AOXdeface`
-* `python aox.py`
+* `cd autodeface`
+* `python deface.py`
 
 **NOTE:** before using this tool, put your deface script with the aox.py file, edit the file 'target.txt' and enter the target url
 
