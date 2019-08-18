@@ -19,6 +19,9 @@ dan ini hanya metode upload file saja
 * `pkg install git`
 * `git clone https://github.com/Ranginang67/AOXdeface`
 * `cd AOXdeface`
+* `mc ⇨ edit file index.html, paste your name✔ save.`
+* `edit target.txt. with vuln site✔ save`
+* `Quit`
 * `python2 aox.py`
 
 **Linux:**
