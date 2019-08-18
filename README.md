@@ -9,7 +9,7 @@ tergantung pada jumlah situs yang telah ditentukan oleh kamu :V, ini tidak berba
 dan ini hanya metode upload file saja
 
 **screnshoot:**
-![1](https://github.com/Ranginang67/AOXdeface/blob/master/img/aox.png)
+![1](https://github.com/SantriCyber/autodeface/blob/master/Screenshot_2019-08-19-00-10-58-331_com.termux.png)
 
 **how to install and usage:**
 
