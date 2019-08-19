@@ -33,7 +33,7 @@ dan ini hanya metode upload file saja
 * `cd autodeface`
 * `python deface.py`
 
-**NOTE:** before using this tool, put your deface script with the aox.py file, edit the file 'target.txt' and enter the target url
+**NOTE:** before using this tool, put your deface script with the deface.py file, edit the file 'target.txt' and enter the target url
 
 
 [website: Santri Coder](https://santricoder.blogspot.com) <br>
