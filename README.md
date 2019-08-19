@@ -19,8 +19,8 @@ dan ini hanya metode upload file saja
 * `pkg install git`
 * `git clone https://github.com/SantriCyber/autodeface`
 * `cd autodeface`
-* `mc ⇨ edit file index.html, paste your name✔ save.`
-* `edit target.txt. with vuln site✔ save`
+* `mc ⇨ edit file index.html, paste your script✔ save.`
+* `edit target.txt with vuln site✔ save`
 * `Quit`
 * `python2 deface.py`
 
